@@ -1,0 +1,5 @@
+.env
+.fidi.env
+.db.env
+
+volumes/
